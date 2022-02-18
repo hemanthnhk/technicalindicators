@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NotAlfred/technicalindicators.git"
+    "url": "git+https://github.com/hemanthnhk/technicalindicators.git"
   },
   "author": "anand.anand84@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NotAlfred/technicalindicators/issues"
+    "url": "https://github.com/hemanthnhk/technicalindicators/issues"
   },
-  "homepage": "https://github.com/NotAlfred/technicalindicators#readme",
+  "homepage": "https://github.com/hemanthnhk/technicalindicators#readme",
   "devDependencies": {
     "@types/node": "^6.0.31",
     "ts-node": "^1.0.0",
